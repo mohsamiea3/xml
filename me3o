@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Egypt/elcinema.en.com.channels.xml" site="elcinema.com">
+<site generator-info-name="https://raw.githubusercontent.com/mohsamiea3/xml/master/me3o" site="elcinema.com">
   <channels>
     <channel update="i" site="elcinema.en.com" site_id="1242" xmltv_id="Network Arabic">Network Arabic</channel>
     <channel update="i" site="elcinema.en.com" site_id="1277" xmltv_id="Disney channel">Disney channel</channel>
