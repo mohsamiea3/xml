@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="https://raw.githubusercontent.com/mohsamiea3/xml/master/me3o" site="elcinema.com">
+<site generator-info-name="https://raw.githubusercontent.com/mohsamiea3/xml/master/me3o" site="elcinema.com/en/tvguide">
   <channels>
     <channel update="i" site="elcinema.en.com" site_id="1242" xmltv_id="Network Arabic">Network Arabic</channel>
     <channel update="i" site="elcinema.en.com" site_id="1277" xmltv_id="Disney channel">Disney channel</channel>
@@ -15,7 +15,7 @@
     <channel update="i" site="elcinema.en.com" site_id="1230" xmltv_id="OSN MOVIES ACTION HD +2">OSN MOVIES ACTION HD +2</channel>
     <channel update="i" site="elcinema.en.com" site_id="1293" xmltv_id="OSN BOX OFFICE 1">OSN BOX OFFICE 1</channel>
     <channel update="i" site="elcinema.en.com" site_id="1330" xmltv_id="FOX ACTION MOVIES">FOX ACTION MOVIES</channel>
-    <channel update="i" site="elcinema.com" site_id="1132" xmltv_id="MBC MAX Channel">MBC MAX Channel</channel>
+    <channel update="i" site="elcinema.com/en/tvguide" site_id="1132" xmltv_id="MBC MAX Channel">MBC MAX Channel</channel>
     <channel update="i" site="elcinema.en.com" site_id="1210" xmltv_id="OSN Movies  2">OSN Movies  2</channel>
     <channel update="i" site="elcinema.en.com" site_id="1229" xmltv_id="OSN MOVIES THRILLER HD">OSN MOVIES THRILLER HD</channel>
     <channel update="i" site="elcinema.en.com" site_id="1259" xmltv_id="MBC Bollywood">MBC Bollywood</channel>
